@@ -6,7 +6,7 @@ Scene Library
 ## To use
 ```  toml
     [dependencies]
-    webro-scene = { git = "https://github.com/KorieDrakeChaney/WeBro-Lib/tree/main/webro-scene", branch = "main" }
+    webro-scene = { git = "https://github.com/KorieDrakeChaney/WeBro-Lib/tree/main/webro-scene" }
 ```
 
 
