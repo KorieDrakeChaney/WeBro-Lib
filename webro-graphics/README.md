@@ -5,7 +5,7 @@ Graphics Library
 ## To use
 ```  toml
     [dependencies]
-    webro-lib = { git = "https://github.com/KorieDrakeChaney/WeBro-Lib/new/main/webro-graphics", branch = "main" }
+    webro-graphics = { git = "https://github.com/KorieDrakeChaney/WeBro-Lib/new/main/webro-graphics", branch = "main" }
 ```
 
 
