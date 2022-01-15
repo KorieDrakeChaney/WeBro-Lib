@@ -5,7 +5,7 @@ Asset Library
 ## To use
 ```  toml
     [dependencies]
-    webro-assets = { git = "https://github.com/KorieDrakeChaney/WeBro-Lib/tree/main/webro-assets", branch = "main" }
+    webro-assets = { git = "https://github.com/KorieDrakeChaney/WeBro-Lib/tree/main/webro-assets" }
 ```
 
 
