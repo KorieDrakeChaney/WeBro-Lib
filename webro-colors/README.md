@@ -5,7 +5,7 @@ Color Library
 ## To use
 ```  toml
     [dependencies]
-    webro-colors = { git = "https://github.com/KorieDrakeChaney/WeBro-Lib/new/main/webro-colors", branch = "main" }
+    webro-colors = { git = "https://github.com/KorieDrakeChaney/WeBro-Lib/new/main/webro-colors" }
 ```
 
 
