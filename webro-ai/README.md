@@ -7,7 +7,7 @@ AI Library
 ## To use
 ```  toml
     [dependencies]
-    webro-ai = { git = "https://github.com/KorieDrakeChaney/WeBro-Lib/new/main/webro-ai", branch = "main" }
+    webro-ai = { git = "https://github.com/KorieDrakeChaney/WeBro-Lib/new/main/webro-ai" }
 ```
 
 
