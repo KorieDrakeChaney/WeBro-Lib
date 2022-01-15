@@ -15,3 +15,4 @@ Game Library for Rust, that ports to web
 - Map Generation
 - AI
 - Documentation
+- Animation System, (tweening, Lerping, Easing...etc)
