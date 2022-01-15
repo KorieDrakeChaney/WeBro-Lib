@@ -6,7 +6,7 @@ UI Library
 ## To use
 ```  toml
     [dependencies]
-    webro-ui = { git = "https://github.com/KorieDrakeChaney/WeBro-Lib/new/main/webro-ui", branch = "main" }
+    webro-ui = { git = "https://github.com/KorieDrakeChaney/WeBro-Lib/new/main/webro-ui" }
 ```
 
 
