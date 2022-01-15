@@ -1,0 +1,18 @@
+[package]
+name = "webro-lib"
+version = "0.1.0"
+authors = ["KorieDrakeChaney"]
+edition = "2021"
+
+[dependencies]
+webro-graphics = { path = "./webro-graphics", version = "~0.1.0", default-features = false }
+webro-scene = {path = "./webro-scene", version = "~0.1.0", default-features = false}
+webro-assets = {path = "./webro-assets", version = "~0.1.0", default-features = false}
+webro-map = {path = "./webro-map", version = "~0.1.0", default-features = false}
+webro-ai = {path = "./webro-ai", version = "~0.1.0", default-features = false}
+webro-animation = {path = "./webro-animation", version = "~0.1.0", default-features = false}
+webro-ui = {path = "./webro-ui", version = "~0.1.0", default-features = false}
+webro-logging = {path = "./webro-logging", version = "~0.1.0", default-features = false}
+webro-math = {path = "./webro-math", version = "~0.1.0", default-features = false}
+webro-colors = {path = "./webro-colors", version = "~0.1.0", default-features = false}
+

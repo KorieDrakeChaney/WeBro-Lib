@@ -1,0 +1,5 @@
+[package]
+name = "webro-animation"
+version = "0.1.0"
+authors = ["KorieDrakeChaney"]
+edition = "2021"

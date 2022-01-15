@@ -1,0 +1,23 @@
+[package]
+name = "webro-assets"
+version = "0.1.0"
+authors = ["KorieDrakeChaney"]
+edition = "2021"
+
+[dependencies]
+js-sys = "0.3.55"
+wasm-bindgen = "0.2.78"
+webro-logging = {path = "../webro-logging", version = "~0.1.0", default-features = false}
+webro-math = {path = "../webro-math", version = "~0.1.0", default-features = false}
+
+[dependencies.web-sys]
+version = "0.3.55"
+features = [
+  'WebGl2RenderingContext',
+  'WebGlProgram',
+  'WebGlShader',
+  'WebGlVertexArrayObject', 
+  'WebGlUniformLocation', 
+  'HtmlImageElement', 
+  'WebGlTexture'
+]
