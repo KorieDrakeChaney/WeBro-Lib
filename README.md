@@ -14,3 +14,4 @@ Game Library for Rust, that ports to web
 - Input
 - Map Generation
 - AI
+- Documentation
