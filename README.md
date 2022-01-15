@@ -4,7 +4,7 @@ Game Library for Rust, that ports to web
 ## To use
 ```  toml
     [dependencies]
-    webro-lib = { git = "https://github.com/KorieDrakeChaney/WeBro-Lib", branch = "main" }
+    webro-lib = { git = "https://github.com/KorieDrakeChaney/WeBro-Lib" }
 ```
 
 
