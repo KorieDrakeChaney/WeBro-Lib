@@ -16,3 +16,4 @@ Game Library for Rust, that ports to web
 - AI
 - Documentation
 - Animation System, (tweening, Lerping, Easing...etc)
+- Javascript support 
