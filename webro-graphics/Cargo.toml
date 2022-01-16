@@ -29,5 +29,4 @@ features = [
   'WebGlTexture',
   'HtmlElement',
   'Node',
-  'Window'
 ]
